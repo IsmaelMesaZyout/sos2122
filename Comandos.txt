@@ -1,0 +1,2 @@
+npm -> NPM es un administrador de paquetes que ayuda a organizar y compartir paquetes y módulos de Node.js
+version(1.0.0) -> primer uno es el MAYOR VERSION, el primer 0 es MINOR VERSION.
